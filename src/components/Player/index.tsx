@@ -13,7 +13,15 @@ function Player() {
         <strong>Selecione um podcast para ouvir</strong>
       </div>
 
-      <footer></footer>
+      <footer>
+        <div className={styles.progress}>
+          <span>00:00</span>
+          <div className={styles.emptySlider} />
+          <span>00:00</span>
+        </div>
+
+        <div className={styles.buttons}></div>
+      </footer>
     </div>
   );
 }
