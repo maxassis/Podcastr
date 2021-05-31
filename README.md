@@ -20,7 +20,7 @@ Next.js
 
 ### Clone o repositorio
 
-$ git clone 
+$ git clone https://github.com/maxassis/Podcastr.git 
 
 
 
