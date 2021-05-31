@@ -4,15 +4,15 @@ O Podcastr é uma aplicação desenvolvida durante a Next Level Week 5 de React 
 
 ### Tecnologias
 
-TypeScript
-ReactJS
-Next.js
+TypeScript<br/>
+ReactJS <br/>
+Next.js <br/>
 
 ### Bibliotecas
 
- Axios
- JSON Server
- React Slider
+ Axios <br/>
+ JSON Server <br/>
+ React Slider <br/>
 
 
 
